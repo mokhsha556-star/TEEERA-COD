@@ -1,0 +1,7 @@
+/earch aapt
+/earch android-tools
+/earch ecj
+local.properties
+.gradle/
+build/
+app/build/
